@@ -1,0 +1,10 @@
+D:\Урочки\ООП\ЛР4\LR4\LR4\bin\Debug\LR4.exe.config
+D:\Урочки\ООП\ЛР4\LR4\LR4\bin\Debug\LR4.exe
+D:\Урочки\ООП\ЛР4\LR4\LR4\bin\Debug\LR4.pdb
+D:\Урочки\ООП\ЛР4\LR4\LR4\obj\Debug\LR4.csproj.AssemblyReference.cache
+D:\Урочки\ООП\ЛР4\LR4\LR4\obj\Debug\LR4.MainForm.resources
+D:\Урочки\ООП\ЛР4\LR4\LR4\obj\Debug\LR4.Properties.Resources.resources
+D:\Урочки\ООП\ЛР4\LR4\LR4\obj\Debug\LR4.csproj.GenerateResource.cache
+D:\Урочки\ООП\ЛР4\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+D:\Урочки\ООП\ЛР4\LR4\LR4\obj\Debug\LR4.exe
+D:\Урочки\ООП\ЛР4\LR4\LR4\obj\Debug\LR4.pdb
